@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+
+## Quick overview
+* GitHub stats:  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bumaza" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=bumaza&show_icons=true&line_height=27" alt="My github stats" />
+</a> 
+
+
 <!--
 **Bumaza/Bumaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
