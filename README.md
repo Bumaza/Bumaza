@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 ## ⚡ Technologies
-![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
-![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Java](https://img.shields.io/badge/-java-red?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
+![Kotlin](https://img.shields.io/badge/-Kotlin-pink?style=flat-square&logo=kotlin)
+![Swift](https://img.shields.io/badge/-Swift-eec0c6?style=flat-square&logo=swift)
+![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=c)
+![JavaScript](https://img.shields.io/badge/-JavaScript-green?style=flat-square&logo=javascript)
 ![Android](https://img.shields.io/badge/-android-black?style=flat-square&logo=android)
 ![iOS](https://img.shields.io/badge/-apple-black?style=flat-square&logo=apple)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![MySQL](https://img.shields.io/badge/-MySQL-orange?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-795548?style=flat-square&logo=git)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bumaza&hide=TeX&layout=compact)
 
