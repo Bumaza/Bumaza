@@ -12,9 +12,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-orange?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-795548?style=flat-square&logo=git)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bumaza&hide=TeX&layout=compact)
-
-
+🔭 I’m currently working on gmol6.studio
 
 <!--
 **Bumaza/Bumaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
